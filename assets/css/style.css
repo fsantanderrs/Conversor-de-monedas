@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 10rem;
+}
+
+select{
+    width: 10rem;
+}
+
+button{
+    width: 10rem;
+    margin-top: 1rem;
+}
+
+#html{
+    margin-top: 1rem;
+}
+
+.bg-secondary {
+    background-color: rgba(13, 110, 253, .25) !important;
+}
